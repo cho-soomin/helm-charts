@@ -3,7 +3,7 @@ entries:
   jlscc-1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-09T00:19:44.315060343+05:30"
+    created: "2022-04-09T00:44:39.200988087+05:30"
     description: A Helm chart for Kubernetes
     digest: 1842dec5b298cb385ce9dc2010530f2e966f3f6e258fbedbfda6dd7e12f0cb87
     name: jlscc-1
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://cho-soomin.github.io/helm-charts/jlscc-1/jlscc-1-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-09T00:19:44.313838996+05:30"
+  my-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-09T00:44:39.19979586+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 79be34f969bc19ff1ef13aee27fd4b4474792ba1ed38464d11acd352f3e56cd7
+    name: my-nginx
+    type: application
+    urls:
+    - https://cho-soomin.github.io/helm-charts/my-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-09T00:44:39.103376788+05:30"
